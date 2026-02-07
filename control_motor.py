@@ -2,6 +2,7 @@
 # Autor: José Armando Sáenz
 # Descripción: Programa para indicar la potencia de un motor de CD
 # ENA = pin 12, IN1 = pin 16, IN2 = pin 20;
+# Se ejecuta en Rapsberry Pi 4B
 
 import RPi.GPIO as GPIO
 import time
